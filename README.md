@@ -144,14 +144,6 @@ Puesto deseado: Desarrollador FullStack, Desarrollador PHP-Javascript, Desarroll
 
     * Español
     * Inglés básico
- 
-*Otros*
-    
-    * Soldadura con electrodo
-    * Albañilería
-    * Electricidad
-    * Carpintería
-    * Plomería
     
 
 
